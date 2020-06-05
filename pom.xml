@@ -120,7 +120,6 @@
         <configuration>
           <includes>
             <include>**/virgingames/**/*.java</include>
-            <include>**/virgingames/*.java</include>
           </includes>
           <forkCount>4</forkCount>
           <reuseForks>true</reuseForks>
@@ -170,4 +169,3 @@
     </plugins>
   </build>
 </project>
-

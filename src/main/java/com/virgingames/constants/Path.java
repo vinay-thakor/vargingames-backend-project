@@ -1,8 +1,7 @@
 package com.virgingames.constants;
 
-public class path {
+public class Path {
 
     public static final String PATH = "/bingo";
-
 }
 
